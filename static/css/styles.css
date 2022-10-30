@@ -1,0 +1,92 @@
+body {
+    background-color: #282729;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0 6% 3%;
+    }
+
+img {
+    width: 90%;
+    }
+
+h1 {
+    color: #F8FA32;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 2.5rem;
+    }
+
+h2 {
+    color: #A24BFA;
+    font-size: 2.2rem;
+    }
+
+h3 {
+    color: #A24BFA;
+    font-size: 1.5rem;
+    }
+
+p {
+    color: #A24BFA;
+    }
+
+a {
+    color: #F8FA32;
+    font-family: 'Roboto Slab', serif;
+    text-decoration: none;
+    }
+
+a:hover {
+    color: #3EFAE6;
+    }
+
+i {
+    color: white;
+    font-size: 3rem;
+    margin: 3% 2%;
+    }
+
+i:hover {
+    color: #3EFAE6;
+    }
+
+.navbar-brand {
+    font-weight: 500;
+    font-size: 27px;
+    }
+
+.nav-item {
+    font-weight: 200;
+    font-size: 17px;
+    }
+
+.hello {
+    color: #F8FA32;
+    padding-top: 20%;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 4.5rem;
+    }
+
+#welcome {
+    margin: 2% 2% 7%;
+    padding-top: 1%;
+    }
+
+.kitty {
+    padding-left: 8%;
+    }
+
+#about {
+    margin: 0 15% 20%;
+    padding-top: 15%;
+    }
+
+#projects {
+    padding: 2.5% 15%;
+    }
+
+#contact {
+    margin: 13% 0;
+    }
+
